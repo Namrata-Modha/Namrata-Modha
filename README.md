@@ -39,6 +39,9 @@ _June 2020 - July 2022_
 ## 🏆 Certifications
 
 - **[AWS Certified Cloud Practitioner](https://www.credly.com/badges/dbc661eb-cd7a-4683-b4cc-53fd0a42dd29/public_url)** (2022-2025)
+- **[Introduction to Packet Tracer](https://www.credly.com/badges/14c38ec1-6439-4919-a399-4256907307ed/public_url)** (2023)
+- **[Project Management Skills for Leaders](https://www.linkedin.com/learning/certificates/602d71be2ace3536bb4446a84a51585f8cf909f82e10de895396cfea48a43e1f?u=2219954)** (2024)
+
 
 ## 🌱 Current Focus
 
