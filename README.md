@@ -126,10 +126,6 @@ Roll). Based in Canada. Open to remote roles and freelance projects.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Namrata-Modha&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/Namrata-Modha/Namrata-Modha/output/github-snake-dark.svg" />
