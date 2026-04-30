@@ -140,6 +140,18 @@ Roll). Based in Canada. Open to remote roles and freelance projects.
 
 ## Projects
 
+<p align="center">
+  <a href="https://github.com/Namrata-Modha/rubin-scout">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Namrata-Modha&repo=rubin-scout&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Namrata-Modha/Medilight-Guide">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Namrata-Modha&repo=Medilight-Guide&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Namrata-Modha/myhealthqr">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Namrata-Modha&repo=myhealthqr&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
 ### 🔭 Rubin Scout
 `Python · FastAPI · React · PostgreSQL · Supabase · PostGIS · Docker`
 
@@ -155,7 +167,7 @@ subscriptions, and a full REST API.
 
 ---
 
-### 💊 MediLight — Smart Pharmacy Dispensing System
+### 💊 MediLight - Smart Pharmacy Dispensing System
 `React · Node.js · Express · PostgreSQL · Google Gemini AI · WebSocket`
 
 Digitizes the pharmacy dispensing workflow end-to-end. A pharmacist
@@ -183,7 +195,6 @@ College, covering full requirements documentation, stakeholder
 management, and agile delivery across the project lifecycle.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Namrata-Modha/myhealthqr)
-
 ---
 
 ## Currently Working On
@@ -212,5 +223,7 @@ Open to remote full-stack and BSA roles, and freelance web projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Namrata_Modha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/namrata-modha)
 [![Email](https://img.shields.io/badge/Email-namratamodha3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namratamodha3@gmail.com)
-
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=80&section=footer&fontSize=0" />
