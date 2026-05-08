@@ -142,13 +142,13 @@ Roll). Based in Canada. Open to remote roles and freelance projects.
 
 <p align="center">
   <a href="https://github.com/Namrata-Modha/rubin-scout">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Namrata-Modha&repo=rubin-scout&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Namrata-Modha&repo=rubin-scout&theme=tokyonight&hide_border=true&v=2" />
   </a>
   <a href="https://github.com/Namrata-Modha/Medilight-Guide">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Namrata-Modha&repo=Medilight-Guide&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Namrata-Modha&repo=Medilight-Guide&theme=tokyonight&hide_border=true&v=2" />
   </a>
   <a href="https://github.com/Namrata-Modha/myhealthqr">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Namrata-Modha&repo=myhealthqr&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Namrata-Modha&repo=myhealthqr&theme=tokyonight&hide_border=true&v=2" />
   </a>
 </p>
 
