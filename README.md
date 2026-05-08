@@ -116,10 +116,7 @@ Roll). Based in Canada. Open to remote roles and freelance projects.
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Namrata-Modha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namrata-Modha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Namrata-Modha&theme=tokyonight&hide_border=true&hide_current_streak=true" />
@@ -139,18 +136,6 @@ Roll). Based in Canada. Open to remote roles and freelance projects.
 ---
 
 ## Projects
-
-<p align="center">
-  <a href="https://github.com/Namrata-Modha/rubin-scout">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Namrata-Modha&repo=rubin-scout&theme=tokyonight&hide_border=true&v=2" />
-  </a>
-  <a href="https://github.com/Namrata-Modha/Medilight-Guide">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Namrata-Modha&repo=Medilight-Guide&theme=tokyonight&hide_border=true&v=2" />
-  </a>
-  <a href="https://github.com/Namrata-Modha/myhealthqr">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Namrata-Modha&repo=myhealthqr&theme=tokyonight&hide_border=true&v=2" />
-  </a>
-</p>
 
 ### 🔭 Rubin Scout
 `Python · FastAPI · React · PostgreSQL · Supabase · PostGIS · Docker`
