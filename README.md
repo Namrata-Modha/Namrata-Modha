@@ -186,7 +186,7 @@ management, and agile delivery across the project lifecycle.
 
 - Building out Rubin Scout
 - Targeting BSA and full-stack developer roles at Canadian financial
-  institutions (Toronto · Remote)
+  institutions
 - Deepening FastAPI and PostgreSQL architecture patterns
 
 ---
