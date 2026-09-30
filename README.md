@@ -149,16 +149,17 @@ Based in Canada.
 ### 🔭 Rubin Scout
 `Python · FastAPI · React · PostgreSQL · PostGIS · Supabase · LangChain · pgvector · Docker`
 
-Helps astronomy researchers filter and prioritize thousands of real
-cosmic alerts from live telescope systems, including gravitational wave
-cross-matching with LIGO data. Pulls from IAU, ALeRCE, and LIGO/GraceDB
-on a schedule, with retry logic on every external call and a 66-test
-automated suite. Includes ML event classification, light curve
-visualization, notification subscriptions, and a full REST API.
+Helps astronomy researchers filter and prioritize real cosmic alerts from
+live telescope systems. Pulls from six sources on a schedule: the Fink
+broker's ZTF and LSST streams, TNS, ALeRCE, the CHIME/FRB catalog, and
+GWOSC gravitational-wave events. Includes ML classifications from the
+alert brokers, PostGIS cone search, deduplicated ingestion, retries with
+backoff on the highest-traffic feeds, stall detection, and a REST API,
+with a pytest suite running in CI on every push.
 
 **Ask Rubin Scout** is a RAG assistant built with LangChain over pgvector
-and Gemini, tested against live prompt-injection attempts. Owned end to
-end from a 16-requirement PRD through production.
+and Gemini, grounded in the project's own documentation. Owned end to end
+from a 16-requirement PRD through production.
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://rubin-scout.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Namrata-Modha/rubin-scout)
@@ -169,17 +170,17 @@ end from a 16-requirement PRD through production.
 `React · Node.js · Express · PostgreSQL · Google Gemini AI · WebSocket · ESP32`
 
 Digitizes the pharmacy dispensing workflow end to end. A pharmacist
-uploads a prescription image, Gemini AI reads and extracts the
-medications through a four-level fallback cascade, the system matches
-them to live inventory, and an LED shelf driven over WebSocket lights up
-to guide the pharmacist to the exact product. Patient data is redacted
-client-side before any network call, and each dispense runs as one
-atomic PostgreSQL transaction with rollback on failure.
+uploads a prescription image, Gemini reads the medications through a
+backend proxy with a four-level fallback cascade, the system matches them
+to live inventory, and an LED shelf driven over WebSocket lights up to
+guide the pharmacist to the right product. Each order's stock changes and
+records commit as one PostgreSQL transaction.
 
 After launch I audited my own AI-assisted build and fixed real
-vulnerabilities: rate limiting, input validation, authentication on
-destructive endpoints, and CORS. Includes a real-time LED digital twin,
-10 automated tests, and full Swagger API docs.
+vulnerabilities, adding tiered rate limiting, schema-based input
+validation, an admin secret on destructive endpoints, and a CORS
+allowlist. Includes an LED digital twin, a smoke-test route, and Swagger
+API docs.
 
 [![Dashboard](https://img.shields.io/badge/Live-Dashboard-success?style=for-the-badge)](https://medilight-dashboard.vercel.app)
 [![Shelf Device](https://img.shields.io/badge/Live-Shelf_Device-blue?style=for-the-badge)](https://medilight-shelf.vercel.app)
@@ -207,12 +208,13 @@ College Capstone Showcase.
 ---
 
 ### 🛍️ Tulsiart
-`Next.js · TypeScript · Tailwind CSS · Vercel`
+`Next.js · TypeScript · Supabase · Tailwind CSS · Vercel`
 
-Inventory catalogue for a small clothing business. The admin manages
-products, and clients browse the catalogue through a QR code. Built on
-reusable components with a custom API proxy layer that keeps credentials
-server-side.
+Inventory catalogue for a small clothing business. The owner manages
+products, photos, and sales from a private admin area, and customers
+scan a QR code to open the public catalogue and order through WhatsApp. Built with
+Next.js server actions and Supabase for data and photo storage, in strict
+TypeScript.
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://tulsiart.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Namrata-Modha/tulsiart)
