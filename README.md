@@ -5,18 +5,27 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Namrata+%F0%9F%91%8B;Full-Stack+Developer;I+build+things+that+solve+real+problems." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Namrata+%F0%9F%91%8B;Full-Stack+Developer;Curious+about+code+and+the+cosmos." alt="Typing SVG" />
 </p>
 
-Full-stack developer with a business analyst's background. I write code,
-read requirements, ask the uncomfortable questions, and build things that
-actually solve the problem, not just the ticket.
+Full-stack developer in London, Ontario. In India I built hotel booking,
+payment and data features for live client systems at two companies. Since
+moving to Canada I've kept shipping: a live astronomy alert platform, a
+pharmacy dispensing system, and a storefront a small business runs on.
 
-3+ years of professional experience across PHP/Laravel, React, Node.js,
-and Python backends, including payment integrations handling 200K+ daily
-transactions. Postgraduate Certificate in Business and Information Systems
-Architecture, Fanshawe College (2025 · 3.97 GPA · Dean's Honour Roll).
-Based in Canada.
+I build with AI every day, and I check its work. Passing tests tell me the
+code does what it says. They don't tell me the data is right, so nothing is
+done until I've looked at the real rows in production.
+
+---
+
+## Experience
+
+**Laravel Developer** · Peanut Square LLP · Ahmedabad · Jul 2022 – Aug 2023<br/>
+Stripe and PayPal checkout, a bank-redirect card payment flow, booking features with a React frontend, and a 1M+ record migration from MySQL to MongoDB.
+
+**Full Stack Developer (Cloud)** · Dev Information Technology Ltd · Ahmedabad · Jul 2020 – Jul 2022<br/>
+Promoted twice from Trainee. Rebuilt core modules of a live legacy PHP 5 hotel booking system, traced production failures to their root cause, and built Node.js microservices and Python automation.
 
 ---
 
@@ -34,12 +43,12 @@ Based in Canada.
       </small>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/-Requirements_to_Code-0077B5?style=for-the-badge" /><br/><br/>
-      <b>Systems Thinking</b><br/><br/>
+      <img src="https://img.shields.io/badge/-Integrations_%26_Data-0077B5?style=for-the-badge" /><br/><br/>
+      <b>Integrations and Data</b><br/><br/>
       <small>
-        Requirements elicitation with stakeholders and clients,<br/>
-        turning vague business asks into technical specs,<br/>
-        then building what the spec describes.
+        Stripe and PayPal checkout in production,<br/>
+        six live science APIs with retries and backoff,<br/>
+        ingestion that is safe to re-run, checked against real data.
       </small>
     </td>
     <td align="center" width="33%">
@@ -48,15 +57,11 @@ Based in Canada.
       <small>
         RAG assistants with LangChain and pgvector,<br/>
         Gemini vision pipelines with fallback cascades,<br/>
-        real-time ingestion from live scientific sources.
+        AI-assisted development with review before every merge.
       </small>
     </td>
   </tr>
 </table>
-
-<br/>
-
-> If you need a developer who thinks like a BA, that's the gap I fill.
 
 ---
 
@@ -92,28 +97,26 @@ Based in Canada.
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=postgresql&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**Cloud & Infrastructure**
+**Cloud & Delivery**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
-**AI & Data**
+**AI**
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **Tools & Workflow**
 
@@ -147,15 +150,20 @@ Based in Canada.
 ## Projects
 
 ### 🔭 Rubin Scout
-`Python · FastAPI · React · PostgreSQL · PostGIS · Supabase · LangChain · pgvector · Docker`
+`Python · FastAPI · React · PostgreSQL · TimescaleDB · PostGIS · Supabase · LangChain · pgvector · Docker`
 
 Helps astronomy researchers filter and prioritize real cosmic alerts from
 live telescope systems. Pulls from six sources on a schedule: the Fink
 broker's ZTF and LSST streams, TNS, ALeRCE, the CHIME/FRB catalog, and
 GWOSC gravitational-wave events. Includes ML classifications from the
 alert brokers, PostGIS cone search, deduplicated ingestion, retries with
-backoff on the highest-traffic feeds, stall detection, and a REST API,
-with a pytest suite running in CI on every push.
+backoff on the highest-traffic feeds, stall detection, and a REST API.
+A pytest suite runs in CI, and the backend deploys only after CI passes.
+
+The most useful lesson came from a failure: every test was passing while
+one feed had been failing silently for weeks. I found it by checking what
+had actually reached the database, and I've been fixing the ingestion
+routes so they report real run outcomes instead of a hardcoded success.
 
 **Ask Rubin Scout** is a RAG assistant built with LangChain over pgvector
 and Gemini, grounded in the project's own documentation. Owned end to end
@@ -167,74 +175,80 @@ from a 16-requirement PRD through production.
 ---
 
 ### 💊 MediLight: Smart Pharmacy Dispensing System
-`React · Node.js · Express · PostgreSQL · Google Gemini AI · WebSocket · ESP32`
+`React · Node.js · Express · PostgreSQL · Google Gemini AI · WebSocket`
 
 Digitizes the pharmacy dispensing workflow end to end. A pharmacist
 uploads a prescription image, Gemini reads the medications through a
 backend proxy with a four-level fallback cascade, the system matches them
-to live inventory, and an LED shelf driven over WebSocket lights up to
-guide the pharmacist to the right product. Each order's stock changes and
-records commit as one PostgreSQL transaction.
+to live inventory, and a simulated LED shelf (a digital twin, driven over
+WebSocket) lights up to show where to pick. Each order's stock changes and
+records commit as one PostgreSQL transaction, a fix I made after finding
+the shelf could light up before an order was saved.
 
 After launch I audited my own AI-assisted build and fixed real
 vulnerabilities, adding tiered rate limiting, schema-based input
 validation, an admin secret on destructive endpoints, and a CORS
-allowlist. Includes an LED digital twin, a smoke-test route, and Swagger
-API docs.
+allowlist. Includes a smoke-test route and Swagger API docs. Runs on
+test data only.
 
 [![Dashboard](https://img.shields.io/badge/Live-Dashboard-success?style=for-the-badge)](https://medilight-dashboard.vercel.app)
-[![Shelf Device](https://img.shields.io/badge/Live-Shelf_Device-blue?style=for-the-badge)](https://medilight-shelf.vercel.app)
+[![Simulated Shelf](https://img.shields.io/badge/Live-Simulated_Shelf-blue?style=for-the-badge)](https://medilight-shelf.vercel.app)
 [![API Docs](https://img.shields.io/badge/Swagger-API_Docs-85EA2D?style=for-the-badge&logo=swagger)](https://medilight-backend.onrender.com/api/docs)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Namrata-Modha/medilight-guide)
 
 ---
 
 ### 🏥 MyHealthQR
-`Laravel · PHP · PostgreSQL · JavaScript · Blade Templates`
+`Laravel 11 · PHP 8.2 · PostgreSQL · Blade · Tailwind CSS`
 
-Lets patients share their medical history with healthcare providers and
-first responders through a unique QR code, with role-based access
-control, audit trails, and PIPEDA-aligned privacy compliance.
+Gives every patient a personal QR code linked to the medical information
+they choose to share, so a first responder can see allergies, conditions,
+medications and emergency contacts right away. Includes PIPEDA and guardian
+consent, privacy settings and an activity log. Built with test data only.
 
-I was **Technical Lead** on a six-person team, architecting the Laravel
-and PostgreSQL backend and owning authentication, QR generation, and
-role-based access control end to end. As a capstone, the project also
-covered full requirements documentation, stakeholder management, and
-agile delivery across the lifecycle. **First Place** at the Fanshawe
-College Capstone Showcase.
+I was **Technical Lead** on a six-person team. I set up the PostgreSQL
+database, built the backend for registration, QR scanning and patient
+profiles, and implemented the consent and security pieces. I also kept
+scope to an MVP the team could ship on time. **First Place** at the
+Fanshawe College BISA Capstone Showcase (2025).
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Namrata-Modha/myhealthqr)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Namrata-Modha/MyHealthQR)
 
 ---
 
-### 🛍️ Tulsiart
+### 🛍️ Tulsi Art
 `Next.js · TypeScript · Supabase · Tailwind CSS · Vercel`
 
-Inventory catalogue for a small clothing business. The owner manages
-products, photos, and sales from a private admin area, and customers
-scan a QR code to open the public catalogue and order through WhatsApp. Built with
-Next.js server actions and Supabase for data and photo storage, in strict
-TypeScript.
+A storefront for a small handmade-goods business. The owner manages
+products, photos and sales from a login-protected admin panel, and
+customers scan a QR code to open the public catalogue and order
+through WhatsApp. Built
+with Next.js Server Actions, Supabase for data and photo storage, and
+photo compression in the browser, in strict TypeScript.
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://tulsiart.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Namrata-Modha/tulsiart)
 
 ---
 
-## Currently Working On
+### ☕ Order Service
+`Java 17 · Spring Boot 3 · Spring Data JPA · Hibernate · PostgreSQL`
 
-- Extending Rubin Scout, most recently making admin ingestion routes report real run outcomes instead of a hardcoded success
-- Deepening FastAPI and PostgreSQL architecture patterns
+A REST API for order management, built to learn Java backend patterns
+properly: a layered controller, service and repository structure, global
+exception handling, and errors mapped to the right HTTP status codes.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Namrata-Modha/order-service-microservice)
 
 ---
 
 ## Education & Certifications
 
-**Postgraduate Certificate, Business and Information Systems Architecture**
-Fanshawe College, London, ON · 2025
+**Postgraduate Certificate, Business and Information Systems Architecture**<br/>
+Fanshawe College, London, ON · 2025<br/>
 GPA: 3.97 · Dean's Honour Roll (Semesters 2, 3, 4)
 
-**Bachelor of Engineering, Computer Engineering**
+**Bachelor of Engineering, Computer Engineering**<br/>
 Silver Oak College of Engineering and Technology (Gujarat Technological University) · 2020
 
 **Certifications:** Anthropic, Claude Code in Action (2026) · AWS Bedrock Getting Started (2025) · DataCamp Java (2026) · AWS (Cloud Practitioner, 2022)
@@ -243,13 +257,10 @@ Silver Oak College of Engineering and Technology (Gujarat Technological Universi
 
 ## Let's Talk
 
-Open to full-stack developer roles, remote, hybrid, or in-office, and happy to relocate. Also open to freelance web projects.
+Open to full-stack developer roles, remote, hybrid or in-office, and happy to relocate.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-nam--portfolio-6E40C9?style=for-the-badge)](https://nam-portfolio-flax.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Namrata_Modha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/namrata-modha)
 [![Email](https://img.shields.io/badge/Email-namratamodha3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namratamodha3@gmail.com)
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=80&section=footer&fontSize=0" />
